@@ -32,7 +32,10 @@ function Header() {
         <div>
             <div className='flex justify-center flex-grow'>
                 <HeaderIcon Icon={HomeIcon}></HeaderIcon>
-
+                <HeaderIcon Icon={FlagIcon}></HeaderIcon>
+                <HeaderIcon Icon={PlayIcon}></HeaderIcon>
+                <HeaderIcon Icon={ShoppingCartIcon}></HeaderIcon>
+                <HeaderIcon Icon={UserGroupIcon}></HeaderIcon>
             </div>
         </div>
         {/*Right*/}
