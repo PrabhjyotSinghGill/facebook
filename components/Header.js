@@ -44,6 +44,7 @@ function Header() {
       {/*Right*/}
       <div className="flex items-center sm:space-x-2 justify-end">
         {/* Profile Pic */}
+        <Image className="rounded-full cursor-pointer" src="/gill.jpg" width="40" height="40" layout="fixed"></Image>
         <p className="whitespace-nowrap font-semibold pr-3">
           Prabhjyot Singh Gill
         </p>
