@@ -1,6 +1,11 @@
 import StoryCard from "./StoryCard";
 const stories = [
     {
+        name:"Gill",
+        src:"/gill.jpg",
+        profile:"/gill.jpg",
+    },
+    {
         name:"Musk",
         src:"https://links.papareact.com/4zn",
         profile:"https://links.papareact.com/kxk",
