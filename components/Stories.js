@@ -2,19 +2,25 @@ import StoryCard from "./StoryCard";
 const stories = [
     {
         name:"Gill",
-        src:"/gill.jpg",
+        src:"/c.jpg",
         profile:"/gill.jpg",
     },
     {
-        name:"Musk",
-        src:"https://links.papareact.com/4zn",
-        profile:"https://links.papareact.com/kxk",
+        name:"Bill Gates",
+        src:"/d.jpg",
+        profile:"https://links.papareact.com/zvy",
     },
     {
         name:"Bill Gates",
-        src:"https://links.papareact.com/4u4",
+        src:"/f.jpg",
         profile:"https://links.papareact.com/zvy",
-    }
+    },
+    {
+        name:"Bill Gates",
+        src:"/a.jpg",
+        profile:"https://links.papareact.com/zvy",
+    },
+    
 ]
 
 function Stories() {
