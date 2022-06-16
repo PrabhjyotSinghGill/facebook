@@ -8,8 +8,6 @@ import {useRef} from "react";
 
 function InputBox() {
     const inputRef = useRef(null);
-    const filepickerRef = useRef(null);
-    const [imageToPost, setImageToPost] = useState(null);
     const sendPost = e => {
         e.preventDefault();
 
