@@ -9,8 +9,8 @@ function Posts() {
         message="echo"
         email="f@g.com"
         timestamp="9:00am"
-        image="gill.jpg"
-        postImage="a.jpg"
+        image="/gill.jpg"
+        postImage="/c.jpg"
         ></Post>
     </div>;
 }
