@@ -6,19 +6,19 @@ const stories = [
         profile:"/gill.jpg",
     },
     {
-        name:"Bill Gates",
+        name:"The Queen",
         src:"/d.jpg",
-        profile:"https://links.papareact.com/zvy",
+        profile:"/q.jpg",
     },
     {
-        name:"Bill Gates",
+        name:"Jeff Bezoz",
         src:"/f.jpg",
-        profile:"https://links.papareact.com/zvy",
+        profile:"/jf.jpg",
     },
     {
-        name:"Bill Gates",
+        name:"Mark Zuckerberg",
         src:"/a.jpg",
-        profile:"https://links.papareact.com/zvy",
+        profile:"/mk.jpg",
     },
     
 ]

@@ -4,13 +4,13 @@ import {DotsHorizontalIcon, VideoCameraIcon} from "@heroicons/react/solid";
 import Contact from "./Contact";
 
 const contacts = [
-    {src:"/a.jpg" , name:"Jeff Bezoz"},
-    {src:"/b.jpg" , name:"Elon Musk"},
-    {src:"/c.jpg" , name:"Bill Gates"},
-    {src:"/d.jpg" , name:"Maek Zuckerberg"},
-    {src:"/e.jpg" , name:"Harry Potter"},
-    {src:"/f.jpg" , name:"The Queen"},
-    {src:"/h.jpg" , name:"James Bond"},
+    {src:"/jf.jpg" , name:"Jeff Bezoz"},
+    {src:"/el.jpg" , name:"Elon Musk"},
+    {src:"/bg.webp" , name:"Bill Gates"},
+    {src:"/mk.jpg" , name:"Mark Zuckerberg"},
+    {src:"/hp.jpg" , name:"Harry Potter"},
+    {src:"/q.jpg" , name:"The Queen"},
+    {src:"/jb.jfif" , name:"James Bond"},
 ];
 
 

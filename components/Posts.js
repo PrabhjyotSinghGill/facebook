@@ -13,21 +13,21 @@ function Posts() {
         postImage="/c.jpg"
         ></Post>
         <Post
-        key="1"
-        name="Gill"
+        key="2"
+        name="Bill Gates"
         message="echo"
-        email="f@g.com"
+        email="billgates@microsoft.com"
         timestamp="9:00am"
-        image="/gill.jpg"
+        image="/bg.webp"
         postImage="/c.jpg"
         ></Post>
         <Post
-        key="1"
-        name="Gill"
+        key="3"
+        name="Jeff Bezoz"
         message="echo"
-        email="f@g.com"
+        email="jeff@amazon.com"
         timestamp="9:00am"
-        image="/gill.jpg"
+        image="/jf.jpg"
         postImage="/c.jpg"
         ></Post>
     </div>;
