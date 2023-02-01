@@ -23,7 +23,12 @@ function Post({ name, message, email, timestamp, image, postImage }) {
         <p className="pt-4">{message}</p>
         {postImage && (
           <div className="relative h-56 md:h-96 bg-white ">
-            <Image src={postImage} objectFit="cover" layout="fill"></Image>
+            <Image
+              src={postImage}
+              objectFit="cover"
+              layout="fill"
+              alt=""
+            ></Image>
           </div>
         )}
         <div className="flex justify-between items-center rounded-b-2xl bg-white shadow-md text-gray-400 border-t">
